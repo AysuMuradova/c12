@@ -1,4 +1,4 @@
-public class BnakMain {
+public class BankMain {
     public static void main(String[] args) {
 
         BankHesabi bankHesabi = new BankHesabi(1000);
